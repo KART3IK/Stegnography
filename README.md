@@ -1,4 +1,4 @@
-# Stegnography Project
+# Steganography Project
 Welcome to my GitHub repository for the Steganography Project. Steganography is a technique used to hide sensitive information within seemingly innocuous files, such as images. In this repository, you will find tools and code that enable the encoding and decoding of cypher text in images using both the Least Significant Bit (LSB) method and the hexdump method. Additionally, this project incorporates encryption to enhance the security of hidden data.
 
 Features
